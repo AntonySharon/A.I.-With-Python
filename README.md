@@ -6,5 +6,5 @@ This short python stock analysis of three significant stocks in the Indian stock
 
 Libraries Used
 The libraries that are used are briefly described below:
-  Pandas:- To manipulate and analyze data
-  Matplotlib:- For data visualization (Plot graphs)
+Pandas:- To manipulate and analyze data
+Matplotlib:- For data visualization (Plot graphs)
